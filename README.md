@@ -400,6 +400,7 @@ Tools and SDKs for building AI agents on Solana.
 
 - [Anchor](https://github.com/solana-foundation/anchor) - Core Solana framework for building and integrating smart contracts and clients.
 - [Awesome Solana AI](https://github.com/solana-foundation/awesome-solana-ai) - Solana Foundation's curated list of AI-Solana projects.
+- [Chain.Love](https://chain.love/solana) - Open-source directory of Solana and multichain RPC node providers, indexers, gRPC streams, oracles, SDKs, and MCP servers ([GitHub](https://github.com/Chain-Love/chain-love)).
 - [GOAT SDK](https://github.com/goat-sdk/goat) - Open-source toolkit connecting AI agents to 200+ on-chain tools across Solana and EVM chains.
 - [Helius SDK](https://github.com/helius-labs/helius-sdk) - TypeScript SDK for Solana RPC, webhooks, and DAS API.
 - [Jito-Solana](https://github.com/jito-foundation/jito-solana) - MEV-aware Solana client infrastructure for advanced execution agents.
